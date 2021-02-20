@@ -1,5 +1,5 @@
 # manufacturing_tool_wear_prediction
-Project in Manufacturing Indutry
+Project in Manufacturing Industry
 
 This project was developed in my internship as a research assistant at WZL, the Laboratory for Machine Tools and Production Engineering of RWTH Aachen University, Germany. 
 
