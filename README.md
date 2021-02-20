@@ -1,0 +1,2 @@
+# manufacturing_tool_wear_prediction
+Project in Manufacturing Indutry
