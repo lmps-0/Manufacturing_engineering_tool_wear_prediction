@@ -15,4 +15,4 @@ Working as a Student Research Assistant in a project related to the Monitoring o
 
 Tools: Python | Anaconda Navigator | Spyder | Jupyter | Numpy | Pandas | Scipy | Scikit-Learn | tsfresh| matplotlib
 
-** Python files will be released in May 2021.
+** Python files will be released in ~May~ June 2021.
