@@ -14,7 +14,7 @@ Working as a Student Research Assistant in a project related to the Monitoring o
 4. Predicted force, torque and tool wear conditions of drilling process using the trained models, achieving attractive, but confidential results for the research group.
 
 <p align="center">
-![Developed Pipeline](manufacturing_tool_wear_prediction_developed_pipeline_simplified.jpg)
+  ![Developed Pipeline](manufacturing_tool_wear_prediction_developed_pipeline_simplified.jpg)
 </p>
   
 Tools: Python | Anaconda Navigator | Spyder | Jupyter | Numpy | Pandas | Scipy | Scikit-Learn | tsfresh| matplotlib
