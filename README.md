@@ -12,6 +12,10 @@ Working as a Student Research Assistant in a project related to the Monitoring o
 3. Validated, ranked and trained models using Cross validation, improving them by Grid search and Feature Selection techniques.
 
 4. Predicted force, torque and tool wear conditions of drilling process using the trained models, achieving attractive, but confidential results for the research group.
-5. 
+
+
+![Developed Pipeline](manufacturing_tool_wear_prediction_developed_pipeline_simplified.jpg)
+  
+
 Tools: Python | Anaconda Navigator | Spyder | Jupyter | Numpy | Pandas | Scipy | Scikit-Learn | tsfresh| matplotlib
 
