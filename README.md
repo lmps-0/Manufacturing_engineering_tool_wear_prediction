@@ -16,6 +16,11 @@ Working as a Student Research Assistant in a project related to the Monitoring o
 <p align="center">
   ![Developed Pipeline](manufacturing_tool_wear_prediction_developed_pipeline_simplified.jpg)
 </p>
+
+<div style="text-align:center">
+  ![Developed Pipeline](manufacturing_tool_wear_prediction_developed_pipeline_simplified.jpg)
+</div>
+
   
 Tools: Python | Anaconda Navigator | Spyder | Jupyter | Numpy | Pandas | Scipy | Scikit-Learn | tsfresh| matplotlib
 
